@@ -6,5 +6,15 @@
     "name": "gsixo",
     "email": "ethereal.sent@gmail.com"
   },
-  "keywords": ["go", "golang", "go-best-practices", "guidelines", "modernize"]
+  "keywords": ["go", "golang", "go-best-practices", "guidelines", "modernize"],
+  "skills": [
+    {
+      "name": "use-gsixo",
+      "path": "../skills/use-gsixo"
+    },
+    {
+      "name": "use-samberlo",
+      "path": "../skills/use-samberlo"
+    }
+  ]
 }
